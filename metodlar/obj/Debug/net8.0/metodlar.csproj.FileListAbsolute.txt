@@ -1,0 +1,14 @@
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/bin/Debug/net8.0/metodlar
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/bin/Debug/net8.0/metodlar.deps.json
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/bin/Debug/net8.0/metodlar.runtimeconfig.json
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/bin/Debug/net8.0/metodlar.dll
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/bin/Debug/net8.0/metodlar.pdb
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.AssemblyInfoInputs.cache
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.AssemblyInfo.cs
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.csproj.CoreCompileInputs.cache
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.dll
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/refint/metodlar.dll
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.pdb
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/metodlar.genruntimeconfig.cache
+/Users/emregurbuz/Desktop/OUA/C#/metodlar/obj/Debug/net8.0/ref/metodlar.dll

@@ -1,0 +1,14 @@
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/bin/Debug/net8.0/emregurbuz1
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/bin/Debug/net8.0/emregurbuz1.deps.json
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/bin/Debug/net8.0/emregurbuz1.runtimeconfig.json
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/bin/Debug/net8.0/emregurbuz1.dll
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/bin/Debug/net8.0/emregurbuz1.pdb
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.AssemblyInfoInputs.cache
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.AssemblyInfo.cs
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.csproj.CoreCompileInputs.cache
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.dll
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/refint/emregurbuz1.dll
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.pdb
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/emregurbuz1.genruntimeconfig.cache
+/Users/emregurbuz/Desktop/OUA/C#/ikinci/obj/Debug/net8.0/ref/emregurbuz1.dll
